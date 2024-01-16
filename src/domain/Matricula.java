@@ -1,4 +1,4 @@
-package java.domain;
+package domain;
 
 import javax.persistence.*;
 import java.time.Instant;

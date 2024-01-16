@@ -1,2 +1,7 @@
-package PACKAGE_NAME;public interface IMatriculaDAO {
+package java;
+
+import domain.Matricula;
+
+public interface IMatriculaDAO {
+    Matricula cadastrar(Matricula mat);
 }

@@ -1,6 +1,5 @@
-package java.domain;
+package domain;
 
-import javax.annotation.processing.Generated;
 import javax.persistence.*;
 
 @Entity
